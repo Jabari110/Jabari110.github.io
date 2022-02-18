@@ -6,7 +6,7 @@
   <link href="http://jabari110.github.io/atom.xml" rel="self"/>
   
   <link href="http://jabari110.github.io/"/>
-  <updated>2022-01-24T07:30:32.693Z</updated>
+  <updated>2022-02-18T07:30:23.148Z</updated>
   <id>http://jabari110.github.io/</id>
   
   <author>
@@ -17,18 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>全网最全—UHYPER快速上手</title>
+    <link href="http://jabari110.github.io/2022/02/14/%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8%E2%80%94UHYPER%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/"/>
+    <id>http://jabari110.github.io/2022/02/14/%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8%E2%80%94UHYPER%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/</id>
+    <published>2022-02-14T06:41:12.000Z</published>
+    <updated>2022-02-18T07:30:23.148Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;参考资料：&lt;a href=&quot;https://abaqus-docs.mit.edu/2017/English/SIMACAESUBRefMap/simasub-c-uhyper.htm&quot;&gt;ABAQUS帮助文档&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;什么是UHYPER？&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>简要的个人介绍</title>
     <link href="http://jabari110.github.io/2022/01/24/hello-world/"/>
     <id>http://jabari110.github.io/2022/01/24/hello-world/</id>
     <published>2022-01-24T07:30:32.693Z</published>
-    <updated>2022-01-24T07:30:32.693Z</updated>
+    <updated>2022-02-14T12:35:28.203Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h3 id=&quot;Welcome-to-Jabari’s-blog&quot;&gt;&lt;a href=&quot;#Welcome-to-Jabari’s-blog&quot; class=&quot;headerlink&quot; title=&quot;Welcome to Jabari’s blog.&quot;&gt;&lt;/a&gt;Welcome to</summary>
         
       
     
